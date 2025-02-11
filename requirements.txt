@@ -9,3 +9,5 @@ Pillow
 pydirectinput 
 pytesseract
 gym
+notebook
+
