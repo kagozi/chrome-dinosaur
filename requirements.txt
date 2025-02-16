@@ -8,6 +8,8 @@ mss
 Pillow
 pydirectinput 
 pytesseract
-gym
+# gym
+gymnasium
 notebook
+keyboard
 
